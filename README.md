@@ -1,8 +1,31 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+## Dependencies
+
+Berikut adalah daftar dependensi yang digunakan dalam proyek ini:
+
+- **@gorhom/bottom-sheet**: Dependensi untuk membuat bottom sheet dalam aplikasi.
+- **@react-navigation/bottom-tabs**: Bottom tab navigator untuk navigasi antara layar menggunakan tab di bagian bawah.
+- **@react-navigation/native**: Core dari React Navigation, menyediakan navigator untuk mengatur navigasi antara layar.
+- **@react-navigation/stack**: Stack navigator untuk navigasi antara layar menggunakan tumpukan.
+- **axios**: Library untuk membuat permintaan HTTP untuk mengambil data dari server atau API.
+- **mobx**: Library state management untuk mengelola state aplikasi.
+- **mobx-react**: Binding MobX untuk integrasi dengan komponen React.
+- **react**: Library untuk membangun antarmuka pengguna (UI) dalam aplikasi web dan mobile.
+- **react-native**: Framework JavaScript untuk membuat aplikasi mobile cross-platform.
+- **react-native-gesture-handler**: Gesture handler untuk menangani gesture dalam aplikasi React Native.
+- **react-native-reanimated**: Library untuk animasi dalam React Native.
+- **react-native-safe-area-context**: API untuk mengelola area aman dalam aplikasi React Native.
+- **react-native-screens**: Pustaka untuk mengelola tata letak layar dalam aplikasi React Native.
+- **react-native-vector-icons**: Library untuk menggunakan ikon vektor dalam aplikasi React Native.
+
+## Instalasi
+
+Untuk menginstal dependensi yang diperlukan, jalankan perintah berikut:
+
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
